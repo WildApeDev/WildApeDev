@@ -14,14 +14,14 @@
   - ✅ Expanding my horizons
   
 - 🌱 I’m currently learning ...
-  - 📗 Web Dev (node.js)
+  - 📗 Basic Web Dev (node.js)
   - 📘 Indie Game Dev (godot)
-  - 📙 Random leetcodes, bc why not?
-  
-- 🖥️ I'm proficient in ...
+<BR><BR><BR>
+- 🖥️ Languages & skills that I'm proficient in ...
   - C++
   - Python
-  - Docker deployments
+  - Docker deployments & CI/CD
+  - Various agile methodologies & tooling 
 
 <!---
 WildApeDev/WildApeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
