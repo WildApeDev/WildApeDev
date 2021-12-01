@@ -17,11 +17,9 @@
   - 📗 Basic Web Dev (node.js)
   - 📘 Indie Game Dev (godot)
 <BR><BR><BR>
-- 🖥️ Languages & skills that I'm proficient in ...
+- 🖥️ Languages that I'm proficient in ...
   - C++
   - Python
-  - Docker deployments & CI/CD
-  - Various agile methodologies & tooling 
 
 <!---
 WildApeDev/WildApeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
