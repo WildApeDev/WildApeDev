@@ -7,20 +7,6 @@
 > I asked a wise man, “tell me sir, in which field could I make a great career?” He said with a smile, “be a good human being. There are a lot of opportunities in this area and very little competition.” ~anon
 
 # 
-
-- 👀 I’m interested in ...
-  - ⚽ Women's Football
-  - 💡 Reimagining the culture of human communication
-  - ✅ Expanding my horizons
-  
-- 🌱 I’m currently learning ...
-  - 📗 Basic Web Dev (node.js)
-  - 📘 Indie Game Dev (godot)
-<BR><BR><BR>
-- 🖥️ Languages that I'm proficient in ...
-  - C++
-  - Python
-
 <!---
 WildApeDev/WildApeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
