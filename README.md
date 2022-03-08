@@ -1,9 +1,9 @@
 
-### Software Engineer by day 🔥; explorative programmer by early morning 🌄. 
+### Hallo! Fijne dag.
 
 <BR>
 
-> I asked a wise man, “tell me sir, in which field could I make a great career?” He said with a smile, “be a good human being. There are a lot of opportunities in this area and very little competition.” ~anon
+> I asked a wise man, “tell me sir, in which field could I make a great career?” <BR> He said with a smile, “be a good human being. There are a lot of opportunities in this area and very little competition.” <BR> ~anon
 
 # 
   🤙 
